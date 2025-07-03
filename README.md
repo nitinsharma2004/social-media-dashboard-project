@@ -26,27 +26,27 @@ A responsive and user-friendly dashboard for managing and analyzing social media
 ## ⚙️ Installation
 
 1. **Clone the repository**<br>
-git clone https://github.com/your-username/social-media-dashboard.git
+git clone https://github.com/your-username/social-media-dashboard.git <br>
 cd social-media-dashboard
 
 2. **Install frontend & backend dependencies**<br>
 cd client      # or frontend   <br>
 npm install
 
-cd ../server   # or backend
-npm install
+cd ../server   # or backend  <br>
+npm install<br>
 
-3. **Set up environment variables**
-PORT=5000
-MONGO_URI=your_mongodb_connection_string
-JWT_SECRET=your_jwt_secret
+3. **Set up environment variables**<br>
+PORT=5000<br>
+MONGO_URI=your_mongodb_connection_string<br>
+JWT_SECRET=your_jwt_secret<br>
 
-5. **Run the project**
-6. # In one terminal
-cd server
-npm start
+5. **Run the project**  <br>
+ # In one terminal <br>
+cd server <br>
+npm start <br>
 
-# In another terminal
-cd client
+# In another terminal <br>
+cd client <br>
 npm start
 
