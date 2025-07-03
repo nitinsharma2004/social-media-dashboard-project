@@ -25,12 +25,12 @@ A responsive and user-friendly dashboard for managing and analyzing social media
 
 ## ⚙️ Installation
 
-1. **Clone the repository**
+1. **Clone the repository**<br>
 git clone https://github.com/your-username/social-media-dashboard.git
 cd social-media-dashboard
 
-2. **Install frontend & backend dependencies**
-cd client      # or frontend
+2. **Install frontend & backend dependencies**<br>
+cd client      # or frontend   <br>
 npm install
 
 cd ../server   # or backend
